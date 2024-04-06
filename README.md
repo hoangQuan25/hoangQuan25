@@ -1,7 +1,7 @@
 
-# Hello, I'm Hoang Quan! 👋
+# Hello, Hoang Quan is here! 👋
 
-グエン・ホアン・クアンと申します。クアンと呼んでもよろしいです。
+グエン・ホアン・クアンと申します。クアンと呼んでもよろしいです。<br>
 I'm a passionate backend developer with expertise in Java and Spring framework. I also have experience in frontend technologies like React, and backend technologies like Node.js. My database skills include MySQL and PostgreSQL.
 
 ## 🔧 Skills
