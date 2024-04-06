@@ -37,6 +37,7 @@ I'm always looking to expand my knowledge and explore new technologies. Currentl
 Feel free to reach out if you have any questions, collaboration opportunities, or just want to connect!
 
 ## 🚀 My GitHub Stats
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=hoangQuan25&theme=dark&background=000000)](https://git.io/streak-stats)
 
 [![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=hoangQuan25&show_icons=true&theme=radical)](https://github.com/hoangQuan25)
 
