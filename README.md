@@ -1,12 +1,7 @@
-<h1 align="center">HoangQuan is here!</h1>
-<h3 align="center">Backend dev from Vietnam</h3>
-
-<p align="left">
-</p>
-
 
 # Hello, I'm Hoang Quan! 👋
 
+グエン・ホアン・クアンと申します。クアンと呼んでもよろしいです。
 I'm a passionate backend developer with expertise in Java and Spring framework. I also have experience in frontend technologies like React, and backend technologies like Node.js. My database skills include MySQL and PostgreSQL.
 
 ## 🔧 Skills
