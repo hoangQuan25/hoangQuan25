@@ -6,10 +6,8 @@ I'm a passionate backend developer with expertise in Java and Spring framework. 
 
 ## 🔧 Skills
 
-- **Backend Development:** Java, Spring Boot, Spring MVC, Spring Data JPA, Hibernate
+- **Backend Development:** Java, Spring Boot, Spring Cloud, SQL
 - **Frontend Development:** React
-- **Backend Technologies:** Node.js
-- **Databases:** MySQL, PostgreSQL
 - **Version Control:** Git
 - **Other Tools:** Maven
 
@@ -18,11 +16,7 @@ I'm a passionate backend developer with expertise in Java and Spring framework. 
 
 ## 🌱 Currently Learning
 
-I'm always looking to expand my knowledge and explore new technologies. Currently, I'm learning about Spring Security.
-
-## 💼 Work Experience
-
-- Backend Developer at Aucnet Inc.
+I'm always looking to expand my knowledge and explore new technologies. Currently, I'm learning about microservice architecture.
 
 ## 📫 Get in Touch
 
